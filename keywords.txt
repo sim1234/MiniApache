@@ -1,0 +1,61 @@
+#######################################
+# Syntax Coloring Map For MiniApache
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MiniApache	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+ClearStr	KEYWORD2
+JoinStr	KEYWORD2
+FindChar	KEYWORD2
+SubStr	KEYWORD2
+freeRam	KEYWORD2
+Int2Str	KEYWORD2
+
+# MiniApache
+client	KEYWORD2
+request_path	KEYWORD2
+GET_data	KEYWORD2
+begin	KEYWORD2
+GetMIMEType	KEYWORD2
+ExtractRequestPath	KEYWORD2
+ExtractRequestData	KEYWORD2
+ServeFile	KEYWORD2
+PrintHeader	KEYWORD2
+QuickResponse	KEYWORD2
+RequestIs	KEYWORD2
+RequestStartsWith	KEYWORD2
+GetGETVariable	KEYWORD2
+GETVariableIs	KEYWORD2
+PendingRequest	KEYWORD2
+ProcessRequest	KEYWORD2
+ReportClientServed	KEYWORD2
+GetErrorMessage	KEYWORD2
+SetError	KEYWORD2
+TestIndexFile	KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+REQUEST_BUFFER_SIZE	LITERAL1
+DEFAULT_INDEX_FILE	LITERAL1
+CLIENT_CHUNK_SIZE	LITERAL1
+SERIAL_DEBUG	LITERAL1
+
+
+
+
